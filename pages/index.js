@@ -46,7 +46,10 @@ export default function Home() {
             property="og:description"
             content="Interface with DeGore using an intuitive and easy-to-use web dashboard."
           />
-          <meta property="og:image" content="../public/meta/thumbnail.png" />
+          <meta
+            property="og:image"
+            content="https://media.discordapp.net/attachments/821847610473709599/956942175403376660/thumbnail.png"
+          />
 
           <meta property="twitter:card" content="summary_large_image" />
           <meta
@@ -60,7 +63,7 @@ export default function Home() {
           />
           <meta
             property="twitter:image"
-            content="../public/meta/thumbnail.png"
+            content="https://media.discordapp.net/attachments/821847610473709599/956942175403376660/thumbnail.png"
           />
           <link rel="icon" href="/favicon.ico" />
         </Head>
