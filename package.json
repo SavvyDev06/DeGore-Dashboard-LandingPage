@@ -1,0 +1,24 @@
+{
+  "name": "degore-dashboard-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Mozilla-Public-License-Version-2.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "1.0.4-beta.5",
+    "framer-motion": "^6.2.8",
+    "next": "^12.1.0",
+    "next-themes": "^0.1.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.0"
+  }
+}
