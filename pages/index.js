@@ -25,7 +25,7 @@ export default function Home() {
       <div
         className={styles.container}
         style={{
-          backgroundImage: `url(https://copilot.github.com/universe_generative_pattern.png)`,
+          backgroundImage: `url(https://i.ibb.co/x2gxQT7/universe-generative-pattern.png)`,
         }}
       >
         <Head>
